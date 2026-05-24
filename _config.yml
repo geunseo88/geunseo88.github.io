@@ -5,11 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
+remote_theme             : mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default"
 
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Eunseo Hong / Site Title"
 title_separator          : "-"
 name                     : "Eunseo Hong"
 description              : "personal description"
@@ -23,7 +25,7 @@ repository               : "geunseo88/geunseo88.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Eunseo Hong"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
