@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Eunso Hong (홍은서)"
-  avatar           : "/assets/images/홍은서.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/홍은서.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Majoring in Physics"
   location         : "Seoul, South Korea"
   email            : "sky011005@khu.ac.kr"
