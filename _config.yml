@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-Korea"
+locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Eunseo Hong's blog"
 title_separator          : "-"
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Eunso Hong (홍은서)"
-  avatar           : "/assets/images/bio_image.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/홍은서.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Majoring in Physics"
   location         : "Seoul, South Korea"
   email            : "sky011005@khu.ac.kr"
